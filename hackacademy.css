@@ -1,7 +1,6 @@
 .logo{
     width: 200px;
 }
-font-family: 'Roboto', sans-serif;
 .header{
     justify-content: space-between;
     display: flex;
@@ -360,9 +359,7 @@ font-family: 'Recursive', sans-serif;
     color: darkgray;
     font-family: 'Roboto', sans-serif;
 }
-.form {
-    
-}
+
 .hand {
     color: white;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
